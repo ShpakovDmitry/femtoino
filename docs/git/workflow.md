@@ -16,4 +16,6 @@ branch is with version label.
 And there are many short living `feature` branches. 
 
 The structure of git flow is shown on image:
-![git flow](images/flow.png)
+<p align="center">
+    <img src="images/flow.png" width="50%">
+</p>
