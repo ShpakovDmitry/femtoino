@@ -2,4 +2,4 @@
 
 # Table of contents
 
-1. [git workflow](workflow.md)
+1. [git workflow](git/workflow.md)
