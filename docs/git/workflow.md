@@ -47,7 +47,7 @@ $ git commit -m "commit message"
 ```
 
 * Push changes to server to `docs/git/workflow` branch (this branch will be
-automatically created ion GitHub)
+automatically created on GitHub)
 ```bash
 $ git push origin dev/docs/workflow
 ```
@@ -55,13 +55,16 @@ $ git push origin dev/docs/workflow
 * Go to GitHub page and using `Pull request` tab make pull request of
 `docs/git/flow` branch to `dev` branch. 
 
-* Resolve merge conflicts, if necessary.
+* Resolve merge conflicts, if necessary (on GitHub)
 
-* Merge
+* Merge (on GitHub)
 
-* Delete the feature branch on GitHub (in pull request you will see button for it)
-and delete it on your local machine if you want:
+* Delete the feature branch (on GitHub)
+
+* Switch to dev (on local machine) and delete `docs/git/workflow` branch on
+your local machine if you want:
 ```bash
+$ git checkout dev
 $ git branch --delete docs/git/workflow
 ```
 
