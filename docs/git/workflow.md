@@ -61,15 +61,18 @@ $ git push origin dev/docs/workflow
 
 * Delete the feature branch (on GitHub)
 
-* Switch to dev (on local machine) and delete `docs/git/workflow` branch on
-your local machine if you want:
+* Switch to dev (on local machine)
 ```bash
 $ git checkout dev
-$ git branch --delete docs/git/workflow
 ```
 
-* Pull merget changes from remote `dev` branch to yout local `dev` branch:
+* Pull merged changes from remote `dev` branch to yout local `dev` branch:
 ```bash
 $ git pull
+```
+* And delete `docs/git/workflow` branch on your local machine if you want:
+
+```bash
+$ git branch --delete docs/git/workflow
 ```
 
