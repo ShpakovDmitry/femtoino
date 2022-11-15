@@ -68,3 +68,8 @@ $ git checkout dev
 $ git branch --delete docs/git/workflow
 ```
 
+* Pull merget changes from remote `dev` branch to yout local `dev` branch:
+```bash
+$ git pull
+```
+
