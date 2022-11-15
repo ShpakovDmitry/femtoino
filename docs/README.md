@@ -1,5 +1,5 @@
-# femtoduino related docs
+### femtoduino related docs
 
-# Table of contents
+### Table of contents
 
 1. [git workflow](git/workflow.md)
