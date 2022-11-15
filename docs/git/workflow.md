@@ -1,9 +1,9 @@
-# About
+### About
 
 This file describes how to contribute to the repository. Basic idea is to make
 short living branches with few commits and make pull request to `dev` branch.
 
-# Detailed description
+### Detailed description
 
 There is two long living branches `master` and `dev`.
 
@@ -23,7 +23,7 @@ Basically to make changes, we make new `feature` branch from `dev` branch,
 make commits to `feature` branch and then make pull request to `dev` branch
 to further merge the new code to `dev` branch.
 
-# Commands to do run
+### Commands to do run
 
 To do those steps do the following in commad line interface:
 
