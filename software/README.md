@@ -1,5 +1,3 @@
 ### femtoduino software
 
 ### About
-
-### Description
