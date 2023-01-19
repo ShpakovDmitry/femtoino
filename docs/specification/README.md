@@ -17,7 +17,9 @@ Here are documentation, related to femtoino specification.
   so consider to make usable GPIO expansion pins and wireless antenna connector
 
 Device block diagram:
-![block diagram](images/block_diagram.png)
+<p align="center">
+  <img src="images/block_diagram.png" alt="block diagram"/>
+</p>
 Power management block should manage Li-ion battery recharge, provide power to
 the remaining system devices. All batteries are optional, so power management
 block should handle all possible powering schemes by its own. It’s advised to
@@ -45,8 +47,10 @@ Use minimum on RGB LED for indications.
 
 The size of PCB is TBD.
 
-
-![power management](images/power_management.png)
+Power management scheme:
+<p align="center">
+  <img src="images/power_management.png" alt="power management"/>
+</p>
 This configuration allows to switch between three types of power sources
 automatically. For example, if all power sources are present, then the top
 circuit route is active, because the CTRL block disables Li-ion route and
