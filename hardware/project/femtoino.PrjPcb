@@ -117,7 +117,7 @@ GenerateClassCluster=0
 DocumentUniqueId=MOCFUUYT
 
 [Document5]
-DocumentPath=..\library\symbols\ICs.SchLib
+DocumentPath=..\library\symbols\femtoino.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
