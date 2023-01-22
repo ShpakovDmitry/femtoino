@@ -151,12 +151,12 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Parameter1]
-Name=GlobalRevision
-Value=rev.1
-
-[Parameter2]
 Name=GlobalProjectName
 Value=femtoino
+
+[Parameter2]
+Name=GlobalRevision
+Value=rev.1
 
 [Configuration1]
 Name=Sources
