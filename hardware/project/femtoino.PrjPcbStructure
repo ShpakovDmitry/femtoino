@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=TitlePage.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=TitlePage.SchDoc|Designator=BlockDiagram|SchDesignator=BlockDiagram|FileName=BlockDiagram.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=BlockDiagram.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=BlockDiagram.SchDoc|Designator=PowerManagement|SchDesignator=PowerManagement|FileName=PowerManagement.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=PowerManagement.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

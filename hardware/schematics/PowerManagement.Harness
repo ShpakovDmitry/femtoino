@@ -1,0 +1,1 @@
+PWR_MON_IF=+V_USB,+V_Li-ion,+V_CR2032,+V_3V3,GND
