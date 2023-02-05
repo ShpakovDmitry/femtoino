@@ -202,12 +202,12 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Parameter1]
-Name=GlobalProjectName
-Value=femtoino
-
-[Parameter2]
 Name=GlobalRevision
 Value=rev.1
+
+[Parameter2]
+Name=GlobalProjectName
+Value=femtoino
 
 [Configuration1]
 Name=Sources
@@ -1148,7 +1148,7 @@ Type127=1
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
 L2=NNWNNNNWWWNWNWNWN
-L3=NWWENEENENNWNEEWN
+L3=NWNENEENENNWNEEWN
 L4=NNENNNWEENNWNENWN
 L5=NNNNNNNNNNNNNNNNN
 L6=NNENNNNEENNWNENWN
