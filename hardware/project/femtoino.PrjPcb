@@ -33,7 +33,7 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
 IsVirtualBomDocumentRemoved=0
-OutputPath=
+OutputPath=Project Outputs for femtoino
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -344,7 +344,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=9
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -372,12 +372,12 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Parameter1]
-Name=GlobalRevision
-Value=rev.1
-
-[Parameter2]
 Name=GlobalProjectName
 Value=femtoino
+
+[Parameter2]
+Name=GlobalRevision
+Value=rev.1
 
 [Configuration1]
 Name=Sources
@@ -390,7 +390,7 @@ ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for femtoino
 
 [OutputGroup1]
 Name=Netlist Outputs
