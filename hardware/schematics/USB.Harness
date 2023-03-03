@@ -1,1 +1,1 @@
-USB=+VUSB,D_P,D_N,UGND
+USB=D_P,D_N
