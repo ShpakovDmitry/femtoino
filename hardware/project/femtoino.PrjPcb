@@ -304,6 +304,23 @@ GenerateClassCluster=0
 DocumentUniqueId=CNLKFSGE
 
 [Document16]
+DocumentPath=..\schematics\Buzzer.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=12
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BMTNKLAA
+
+[Document17]
 DocumentPath=..\schematics\External_connectors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -320,7 +337,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FHZLUYMU
 
-[Document17]
+[Document18]
 DocumentPath=..\schematics\External_connectors.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -337,7 +354,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document18]
+[Document19]
 DocumentPath=..\schematics\LED.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
