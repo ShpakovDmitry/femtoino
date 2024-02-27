@@ -1,0 +1,11 @@
+~*
+__Previews*
+History
+*.SchDocPreview
+*.PcbDocPreview
+*Project Logs*
+*Status Report*
+*.drc
+*.html
+*.htm
+TODO
